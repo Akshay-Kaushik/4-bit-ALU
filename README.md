@@ -7,7 +7,7 @@ A 4 bit ALU is simulated in Xilinx Vivado and the same is implemented on Basys 3
 
 ![alt text](https://github.com/Akshay-Kaushik/4-bit-ALU/blob/962368961b97d12694f78a272753cf6547d81f80/img/schematic.png)
 
-**Simulated Results and Waveform **
+**Simulated Results and Waveform**
 
 ![alt text](https://github.com/Akshay-Kaushik/4-bit-ALU/blob/962368961b97d12694f78a272753cf6547d81f80/img/waveform.png)
 
